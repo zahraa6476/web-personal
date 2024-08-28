@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-Chris
+ziya
 
 .nav__link
 Home - Skills - Qualification - Services - Projects - Contact
@@ -8,9 +8,9 @@ Home - Skills - Qualification - Services - Projects - Contact
 
 ========== HOME ==========
 .home__title
-Hi, I’m Chris <br>
+Hi, I’m ziya <br>
 Frontend Developer <br>
-Based In Perú <br>
+Based In Indonesia <br>
 
 .home__social
 https://www.linkedin.com/
@@ -26,13 +26,14 @@ COMPLETED PROJECTS
 COMPANIES WORKED
 
 .home__info-description .home__info-number
-Hi, I'm Chris, Frontend Developer.
+Hi, I'm ziya, Frontend Developer.
 Passionate about designing beautiful web
-interfaces. Based in Perú.
+interfaces. I go to school in SMKN 1 SANDEN, i major in RPL (software engineering RPL).
+I come from outside java.
 
 Lima, Perú <br>
-chrismayer@email.com <br>
-+51 9876543210 <br>
+zahranuazizia@gmail.com <br>
++62 831-3958-1505
 
 Website Design <br>
 UI/UX Design <br>
@@ -207,10 +208,10 @@ Write me your project
 
 .contact__data-title .contact__data-info .contact__button
 Email
-chrismayer@email.com
+zahranurazizia@gmail.com
 
 Whatsapp
-+51 9876543210
++62 831-3958-1505
 Write me
 
 <!-- Insert a real number plus country code -->
@@ -225,10 +226,10 @@ https://m.me/bedimcode
 
 .contact__form-tag | placeholder
 Names
-Write your names
+zahra nur azizia
 
 Mail
-Write your email
+zahranurazizia@gmail.com
 
 Project
 Write your project
